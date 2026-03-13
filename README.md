@@ -8,3 +8,6 @@ git config --global alias.s "status"
 Then I used:
 
 git s
+
+
+![Screenshot](Screenshot.png)
